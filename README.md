@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Arnold Ndokwo 👋
 
-<!--
-**AroTech23/AroTech23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Python Developer with a passion for automation and networking.  
+🌐 I design networks using Cisco Packet Tracer and build Python projects that solve real-world problems.  
+🔧 Skills: Python, Networking (LAN/WAN), Cisco, Automation, Git  
+📂 Check out my latest projects below!
 
-Here are some ideas to get you started:
+## 🔭 Projects I'm Working On
+- 🐢 Turtle Racing Game (Python)
+- 📡 Small Office LAN Simulation (Packet Tracer)
+- 📈 Data Analysis with Python and Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- www.linkedin.com/in/python-development-64a413337
+- https://x.com/arnold_ngong
+
